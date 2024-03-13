@@ -2,21 +2,21 @@
 
 // JAWS DB
 
-// $dsn = "mysql:host=e764qqay0xlsc4cz.cbetxkdyhwsb.us-east-1.rds.amazonaws.com; dbname=u3pvxh30ckoo5wx6";
-// $username = 'sjuho1vdhx8piddg';
-// $password = 't7rht7z2mxlqjwyq';
+ $dsn = "mysql:host=xq7t6tasopo9xxbs.cbetxkdyhwsb.us-east-1.rds.amazonaws.com; dbname=zo2hs1fk26fl3ugv";
+ $username = 'q4vzzqm9ilxmj5tc';
+ $password = 'h7allzfzqc2qtyb8';
 
-// try {
-//     $db = new PDO($dsn, $username, $password);
+ try {
+    $db = new PDO($dsn, $username, $password);
 
 
 //data source network
-$dsn = "mysql:host=localhost; dbname=zippyusedautos";
-$username = 'root';
+//$dsn = "mysql:host=localhost; dbname=zippyusedautos";
+// $username = 'root';
 // $password = "1qaz";
 
-try {
-    $db = new PDO($dsn, $username);
+//try {
+//   $db = new PDO($dsn, $username);
 
 } catch (PDOException $e) {
 
