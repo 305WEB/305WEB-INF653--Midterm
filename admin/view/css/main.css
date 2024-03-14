@@ -339,8 +339,12 @@ ul.flg-flex-2 li.item-6 {
 
 @media all and (hover:none) {
 
+  .add_input {
+   min-height: 20px;
+}
+
 .add_input-2 {
-  width: 95%;
+  width: 93%;
   padding: 2px 0;
   margin: 8px 0;
   margin-bottom: 9px;
