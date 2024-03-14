@@ -343,8 +343,17 @@ ul.flg-flex-2 li.item-6 {
 
   padding: 2px 0;
   margin: 8px 0;
-  margin-bottom: 5px;
+  margin-bottom: 9px;
 }
+
+#Add_itemForm {
+  padding-bottom: 20px;
+}
+
+.add_button  {
+  margin-left: 2.5em !important;
+}
+
 }
 
 /*	---------- MAX WIDTH 568 PX --------------*/
