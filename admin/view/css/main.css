@@ -340,7 +340,7 @@ ul.flg-flex-2 li.item-6 {
 @media all and (hover:none) {
 
   .add_input {
-   min-height: 20px;
+    -webkit-appearance: none;
 }
 
 .add_input-2 {
