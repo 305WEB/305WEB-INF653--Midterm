@@ -339,9 +339,9 @@ ul.flg-flex-2 li.item-6 {
 
 @media all and (hover:none) {
 
-  .add_input {
+  /* .add_input {
     -webkit-appearance: none;
-}
+} */
 
 .add_input-2 {
   width: 93%;
