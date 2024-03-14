@@ -86,7 +86,7 @@ ul.flg-flex li.item-3 {
 
 
 ul.flg-flex li.item-4 {
-  width: 35%;
+  width: 50%;
   margin-left: 30px;
 }
 
@@ -394,9 +394,9 @@ ul.flg-flex-2 {
     display: block;
   }
 
-ul.flg-flex-2 {
+/* ul.flg-flex-2 {
   padding: 2px 3.7em;
-}
+} */
 
 #h1-f {
   display: block;
