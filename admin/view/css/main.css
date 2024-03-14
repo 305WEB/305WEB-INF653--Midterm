@@ -351,7 +351,7 @@ ul.flg-flex-2 li.item-6 {
 }
 
 .add_button  {
-  margin-left: 2.5em !important;
+  margin-left: 3em !important;
 }
 
 }
@@ -407,11 +407,11 @@ ul.flg-flex-2 li.item-6 {
     min-width: 82%;
 }
 
-  ul.footer-right {
-    width: 289px;
-    margin: 0 auto;
-    margin-top: 20px;
-    margin-bottom: 30px;
+ul.footer-right {
+  width: 74%;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 30px;
 }
   
 
