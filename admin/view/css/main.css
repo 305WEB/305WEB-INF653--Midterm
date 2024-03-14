@@ -335,6 +335,16 @@ ul.flg-flex-2 li.item-6 {
   font-style: italic;
 }
 
+/* ALL MOBILE DEVICES */
+
+@media all and (hover:none) {
+
+.add_input-2 {
+
+  padding: 0;
+  margin: 8px 0;
+}
+}
 
 /*	---------- MAX WIDTH 568 PX --------------*/
 @media all and (max-width: 1100px) {
@@ -347,6 +357,18 @@ ul.flg-flex-2 li.item-6 {
     margin: 0;
     flex-wrap: wrap;
 
+}
+
+}
+
+/*	-------------------------------------- MIN WIDTH 568 PX --------------*/
+@media all and (max-width: 568px) and (hover:none) {
+
+#Add_itemForm {
+  position: relative;
+  bottom: 0;
+  min-width: 100%;
+  padding: 15px 0 28px 0;
 }
 
 }
@@ -417,4 +439,8 @@ ul.flg-flex li.item-4 {
   width: 59%;
   margin-left: 30px;
 }
+ul.flg-flex li.item-3 {
+  width: 32%;
 }
+}
+
