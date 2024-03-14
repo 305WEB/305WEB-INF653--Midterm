@@ -376,6 +376,20 @@ footer {
 
 }
 
+/* // ALL MOBILE DEVICES */
+
+@media all and (hover: none) {
+
+  footer {
+    display: none;
+  }
+  
+  ul.flg-flex-2 li {
+    width: 88%;
+  }
+  
+  }
+
 @media all and (max-width: 650px) and (hover: none) and (orientation: portrait) {
 
 ul.flg-flex-2 {
@@ -386,19 +400,14 @@ ul.flg-flex-2 li.item-5 {
   width: 95%;
 
 }
-}
-
-@media all and (hover: none) {
 
 footer {
-  position: relative;
+  display: block;
+  position: fixed;
+}
 }
 
-ul.flg-flex-2 li {
-  width: 88%;
-}
 
-}
 
 /*	----------------------------------------------------- MAX WIDTH 650 PX --------------*/
 @media all and (max-width: 650px) {
