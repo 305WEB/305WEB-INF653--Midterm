@@ -381,16 +381,21 @@ footer {
 ul.flg-flex-2 {
   padding: 2px 1.3em;
 }
+
+ul.flg-flex-2 li.item-5 {
+  width: 95%;
+
+}
 }
 
 @media all and (hover: none) {
 
 footer {
-  position: relative;
+  position: absolute;
 }
 
 ul.flg-flex-2 li {
-  width: 90%;
+  width: 88%;
 }
 
 }
