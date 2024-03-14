@@ -86,7 +86,7 @@ ul.flg-flex li.item-3 {
 
 
 ul.flg-flex li.item-4 {
-  width: 50%;
+  width: 60%;
   margin-left: 30px;
 }
 
@@ -383,7 +383,19 @@ ul.flg-flex-2 {
 }
 }
 
-/*	---------- MAX WIDTH 568 PX --------------*/
+@media all and (hover: none) {
+
+footer {
+  position: relative;
+}
+
+ul.flg-flex-2 li {
+  width: 90%;
+}
+
+}
+
+/*	----------------------------------------------------- MAX WIDTH 650 PX --------------*/
 @media all and (max-width: 650px) {
 
   #h1, #footer-m {
