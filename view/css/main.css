@@ -391,7 +391,7 @@ ul.flg-flex-2 li.item-5 {
 @media all and (hover: none) {
 
 footer {
-  position: absolute;
+  position: relative;
 }
 
 ul.flg-flex-2 li {
