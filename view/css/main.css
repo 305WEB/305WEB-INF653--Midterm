@@ -418,10 +418,13 @@ ul.flg-flex-2 li.item-6 {
   padding: 0 0 0 0.5em;
 }
 
-  ul.flg-flex-2 li {
+  /* ul.flg-flex-2 li {
     width: 62%;
     min-width: 82%;
-}
+} */
+
+
+
 
   ul.footer-right {
     width: 289px;
