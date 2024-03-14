@@ -405,6 +405,10 @@ footer {
   display: block;
   position: fixed;
 }
+
+ul.flg-flex-2 li.item-6 {
+  padding: 0;
+}
 }
 
 
