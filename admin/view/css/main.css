@@ -371,6 +371,16 @@ ul.flg-flex-2 li.item-6 {
 
 }
 
+/*	--------------------------------------PHONES LANDSCAPE--------------*/
+
+@media screen and (hover:none) and (orientation: landscape) and (min-width: 450px) and (max-width: 950px) {
+
+  #Add_itemForm, header {
+    position: relative;
+  }
+
+}
+
 /*	-------------------------------------- MIN WIDTH 568 PX MOBILE ONLY--------------*/
 @media all and (max-width: 568px) and (hover:none) {
 
